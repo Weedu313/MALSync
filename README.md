@@ -22,6 +22,7 @@ Makes it possible to use your MyAnimeList/Anilist/Kitsu/Simkl anime/mangalist as
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://aniwave.fit"><img src="https://favicon.malsync.moe/?domain=https://aniwave.fit"> Aniwave</a></td>
                 <td><a href="https://aniwave.to"><img src="https://favicon.malsync.moe/?domain=https://aniwave.to"> Aniwave</a></td>
                 <td><a href="https://www.mangadex.org"><img src="https://favicon.malsync.moe/?domain=https://www.mangadex.org"> Mangadex</a></td>
                 <td><a href="http://app.emby.media"><img src="https://favicon.malsync.moe/?domain=app.emby.media"></a> <a href="http://app.emby.media">Emby</a> <a href="https://github.com/MALSync/MALSync/wiki/Emby-Plex#emby">[Wiki]</a></td>
